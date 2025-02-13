@@ -1,0 +1,21 @@
+{
+  "name": "countdown-timer-web-app",
+  "version": "1.0.0",
+  "description": "A simple countdown timer web application.",
+  "main": "src/scripts/app.js",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "keywords": [
+    "countdown",
+    "timer",
+    "web",
+    "application"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
